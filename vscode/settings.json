@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "OceanDeep",
+    "vscode-neovim.neovimPath": "/usr/local/bin/nvim",
+    "vscode-neovim.neovimInitPath": "/Users/dan/.local/share/nvim/init.vim",
+    "breadcrumbs.enabled": true,
+    "go.useLanguageServer": true,
+    "workbench.activityBar.visible": true,
+    "editor.fontFamily": "\"Source Code Pro\", Menlo, Monaco, 'Courier New', monospace",
+    "bracket-pair-colorizer-2.colors": [
+        "#3a5fcd",
+        "#43cd80",
+        "#9a32cd",
+        "#cd2626"
+    ]
+}
