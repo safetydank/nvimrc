@@ -85,3 +85,4 @@ endif
 " Strip leading and trailing whitespace
 nnoremap <silent> <leader>w :%s/\v(^\s+$)\|(\s+$)//g<CR>
 
+nnoremap <C-l> :noh<CR>

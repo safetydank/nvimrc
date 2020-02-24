@@ -11,5 +11,48 @@
         "#43cd80",
         "#9a32cd",
         "#cd2626"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "[OceanDeep]": {
+            "editorIndentGuide.background": "#2f414a"
+        }
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "files.associations": {
+        "Fastfile": "ruby"
+    },
+    "editor.formatOnSave": false,
+    "eslint.autoFixOnSave": true,
+    "eslint.run": "onSave",
+    "eslint.alwaysShowStatus": true,
+    "eslint.options": {
+        "configFile": ".eslintrc.json"
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        }
+    ],
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "[typescript]": {
+        "editor.formatOnSave": false
+    },
+    "[typescriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
 }
